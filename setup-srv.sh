@@ -115,6 +115,7 @@ echo "=========================================="
 echo ""
 echo "PASOS MANUALES PENDIENTES:"
 echo "1. Configurar certificados SSL si aplica:"
+echo "   sudo apt install certbot
 echo "   sudo certbot --apache"
 echo ""
 echo "2. Ejecutar script usuarios_samba.sh"
